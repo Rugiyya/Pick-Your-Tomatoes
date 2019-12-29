@@ -1,6 +1,8 @@
 # Pick-Your-Tomatoes
 ## About the project
-It's a wed page that helps the user to pick the movie to watch my typing their favotite movies to a search box. After clicking the search button they will be given a list of 5 movies that are similar to the one they typed.
+It's a web page that helps the users to pick the movie to watch by typing their favorite movies to a search
+						box. After clicking the search button they will be given a list of 5 movies that are similar to the one they
+						typed.
 
 ## TECHNOLOGIES USED
   * Javascript
