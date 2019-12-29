@@ -16,4 +16,4 @@ It's a wed page that helps the user to pick the movie to watch my typing their f
 
 ## Creators 
 
-*Armando*,*Evan* ,*Natalie*, *Rugiyya*
+*Armando*, *Evan*, *Natalie*, *Rugiyya*
