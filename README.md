@@ -13,3 +13,7 @@ It's a wed page that helps the user to pick the movie to watch my typing their f
   
 ## Link
 [Pick Your Tomatoes](https://volk117.github.io/Pick-Your-Tomatoes/)
+
+## Creators 
+
+*Armando*,*Evan* ,*Natalie*, *Rugiyya*
